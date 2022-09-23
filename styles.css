@@ -1,19 +1,9 @@
-<!DOCTYPE html>
-
-<html>
-
-<head>
-
-<style> body {
+ body {
 
 background-color: lightblue;
 
-} </style>
-
-</head> <body>
-
-<h1>Hello World!</h1>
-
-<p>This page has a light blue background color!</p>
-
-</body> </html>
+} 
+h1{
+  color: navy;
+  margin-left:10px;
+}
